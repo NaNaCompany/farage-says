@@ -1,0 +1,232 @@
+{
+  "slug": "farage-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 334,
+  "first": "2026-07-20",
+  "last": "2026-10-28",
+  "exact_time": 334,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "failures": [],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies",
+      "sha256": "f5dc955cf67b210b92a29eddd52e2d2af1c88bef96723b3547ed2ae84232c8cf",
+      "timeline_items": 19,
+      "accepted": 11,
+      "excluded": {
+        "repost": 8
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__-sLAAIAAAATMjExNDc4ODIxNzYyMzA3Mjg2NwgAAwAAAAIAAA",
+      "sha256": "cbb6d84606924d6afe8de8a4a34ed3420829968852163ddb692c5ce3622cf7e9",
+      "timeline_items": 21,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__9cLAAIAAAATMjExMjg1MDMyODUzODI4ODQ1NwgAAwAAAAIAAA",
+      "sha256": "7dc277ca8527f0824eaf3d9ee153ecb9070a80356d4ade4b2c5bd91b9d5504cd",
+      "timeline_items": 21,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__8MLAAIAAAATMjExMDc2OTA3MTgwNTMxNzM3MwgAAwAAAAIAAA",
+      "sha256": "bfb83e5cba751a3e558f393a2d626c888b2f6d0460d9e1d4eceb6cdc3b87e53e",
+      "timeline_items": 21,
+      "accepted": 12,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 8
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__7ALAAIAAAATMjEwOTY2NjUyODYxODUxMjM5NggAAwAAAAIAAA",
+      "sha256": "339158631655411541db098c446a04c3051bb6fb29b85073768e7008ee13daaf",
+      "timeline_items": 21,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__5wLAAIAAAATMjEwODE1OTQxNzgxNjY1MDA1MAgAAwAAAAIAAA",
+      "sha256": "bf55ffe9413ef10d8331f69a6f450060423cdb728dd480c146ae226151e1b87a",
+      "timeline_items": 21,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__4kLAAIAAAATMjEwNjEzMTU5MTI4MjAxNjM3NAgAAwAAAAIAAA",
+      "sha256": "b3d9da6c7f40db072b015e1f1c89ff8bec67501a23b750df332144d4e0b49c4a",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__3ULAAIAAAATMjEwNDk0MTUxODA4MzcyMzM4MggAAwAAAAIAAA",
+      "sha256": "5282b684661a33f1523c5488eb79e490111d50396d0f457503dfd8f364be04ab",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__2ELAAIAAAATMjEwMzAwMjI0NjY0NDM4NDAwMQgAAwAAAAIAAA",
+      "sha256": "f2cf4cdc3e7ee208b9579ebcb2fbdeab2df7bd72ebe87fbfa77d3937a481d799",
+      "timeline_items": 22,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__00LAAIAAAATMjEwMDk4NDE1MTQxNTM0NTUzMAgAAwAAAAIAAA",
+      "sha256": "68511b14f98916c764bfa7a8a1b6dee3c4a81da65e0e19ce3d3ef40b877ff78e",
+      "timeline_items": 21,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__zkLAAIAAAATMjA5OTUzNTM1Mzc4MjY5ODAzMggAAwAAAAIAAA",
+      "sha256": "2ce380a3839f9455f99d4d84b5a3f7d3111ebfcf4f9cfa0f7b7d16dcce2f31af",
+      "timeline_items": 21,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__yULAAIAAAATMjA5NzY5MDczMzIwNTQxNDE4NAgAAwAAAAIAAA",
+      "sha256": "8732f4fcaf6ef0ec2316dfda1e238230da24101bfedbd1950b62ec26998cd8d6",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__xMLAAIAAAATMjA5NjIyMjM5OTQzNTgyOTM1NAgAAwAAAAIAAA",
+      "sha256": "d11fa73855ee5c4c0cecf82fcbc57f065ff9e30981cf44f1d20b09adfefbc123",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__v8LAAIAAAATMjA5NTIxNjc4MTcyODEyOTA3NwgAAwAAAAIAAA",
+      "sha256": "c414355ced5e8df63375754c49a194b9289114fc6667321b7fcb6a5e31fc7e01",
+      "timeline_items": 21,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__usLAAIAAAATMjA5MTQyMTUwNzI4MDk0MTQzMwgAAwAAAAIAAA",
+      "sha256": "a29bc62a770e71fabfeba7d09c6a13ffe1e04092b57f2b6028d16d5e7b9ea848",
+      "timeline_items": 20,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__tkLAAIAAAATMjA4NzgzNTI1ODY4MzA5MzM1OQgAAwAAAAIAAA",
+      "sha256": "de9f25fb2cb197187a6e0531ffcb3f97bc2304b9c6f406d2ed7fc821924ec95c",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__sULAAIAAAATMjA4NTM0NjQ1ODgyMDEwMDQ2MAgAAwAAAAIAAA",
+      "sha256": "f61696b2dc435fdfaebc057473aa195c97108534e09a4960c3b1c1743271439d",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__rELAAIAAAATMjA4Mzk0OTgwMzQ3MDI0NjE0OAgAAwAAAAIAAA",
+      "sha256": "d48c609fadbd0d832e659d910ef243e82400a506fea66041c6a1ff7575ce6bbc",
+      "timeline_items": 22,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 5
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__p0LAAIAAAATMjA4MjQ0MDUxNjE3NjY2Mjg1NwgAAwAAAAIAAA",
+      "sha256": "82f4827da6044e822659d2800d0b0f479c37dc80e65f14866eec04761c608745",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/Nigel_Farage/with_replies?cursor=DAAHCgABHVwYk2a__okLAAIAAAATMjA4MDk0Njg2NTg3NzQ5MTc1OAgAAwAAAAIAAA",
+      "sha256": "8cdfe87d30cc692e4f40594d3f5232b7e0cd20b9dcefd9a257d0d615b7901504",
+      "timeline_items": 20,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 2
+      }
+    }
+  ],
+  "excluded": {
+    "repost": 63,
+    "missing-author-or-permalink": 19
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand."
+}

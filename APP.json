@@ -1,0 +1,22 @@
+{
+  "slug": "farage-says",
+  "name": "Farage Says",
+  "wordmark": "FARAGE",
+  "subject": "Nigel Farage",
+  "handle": "Nigel_Farage",
+  "initials": "NF",
+  "color": "#726184",
+  "profile": "https://x.com/Nigel_Farage",
+  "origin": "https://nanalab.kr/farage-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}
